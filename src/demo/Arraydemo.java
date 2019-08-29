@@ -114,3 +114,5 @@ public class Arraydemo {
 		d.add();
 	}
 }
+
+kghhhhhhhuhi
